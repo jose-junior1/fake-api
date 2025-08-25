@@ -1,4 +1,4 @@
-const mediaPath = 'https://fakeapi-cyan.vercel.app/api/efood/'
+const mediaPath = 'https://fakeapi-cyan.vercel.app/efood/'
 
 const items = [
   {
